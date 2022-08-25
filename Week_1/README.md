@@ -27,6 +27,6 @@ namespace Test
     }
 }
 
--İçiçe (nested) isim uzayları (namespaces) programa eklenirken de "using" anahtar sözcüğü kullanılır. Tek fark içteki bir isim uzayı (namespace) kullanılmak istendiğinde "using" anahtar sözcğüyle birlikte isim uzayının (namespace) tam yolu yazılmalıdır. Şu şekilde örneklendirilebilir:
+- İçiçe (nested) isim uzayları (namespaces) programa eklenirken de "using" anahtar sözcüğü kullanılır. Tek fark içteki bir isim uzayı (namespace) kullanılmak istendiğinde "using" anahtar sözcğüyle birlikte isim uzayının (namespace) tam yolu yazılmalıdır. Şu şekilde örneklendirilebilir:
 
 using Test.Test2;
