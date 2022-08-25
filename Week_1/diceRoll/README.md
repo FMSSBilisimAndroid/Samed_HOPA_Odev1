@@ -1,5 +1,5 @@
 # DiceRoll
 
 <p aling="center" width="70%">
-  <img widht="10%" src="https://github.com/FMSSBilisimAndroid/Samed_Hopa/blob/main/Week_1/diceRoll/images/diceRoll.gif" alt="Sublime's custom image"/>
+  <img widht="32%" src="https://github.com/FMSSBilisimAndroid/Samed_Hopa/blob/main/Week_1/diceRoll/images/diceRoll.gif" alt="Sublime's custom image"/>
 </p>
