@@ -1,4 +1,4 @@
-### İsim uzayları (Namespaces)
+# İsim uzayları (Namespaces)
 
 - Programlama dillerinde bir takım hazır kütüphaneler mevcuttur.  Bu kütüphanelerin bazıları standart olmasının yanı sıra bazıları da programcılar tarafından oluşturulmuştur. Genel olarak Nesne Tabanlı (Object Oriented) programlama dillerinde (Visual Basic, Java, C++,...gibi) hazır kütüphanelerden faydalanılır. Fakat C# dilinde standart bir  kütüphane bulunmamaktadır. Bu durum yazılım açısından işleri daha da kolaylaştırır. Bu konuda Microsoft’un geliştirdiği .NET Framework adlı bir alt yapı kullanılmaktadır. Bu alt yapı Microsoft’un geliştirdiği programlama dillerini kullanan programcılara temel türler ve sınıflar sunmuştur. .Net bütün bu sınıfları ve türleri iyi bir şekilde organize edebilmek için  isim uzayı (namespace) kavramını sıklıkla kullanır. İsim uzayları (namespaces) şu şekilde tanımlanır:
 
